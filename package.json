@@ -7,6 +7,10 @@
     "build": "astro build"
   },
   "devDependencies": {
-    "astro": "^0.16.1"
+    "astro": "^0.17.1"
+  },
+  "dependencies": {
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3"
   }
 }
